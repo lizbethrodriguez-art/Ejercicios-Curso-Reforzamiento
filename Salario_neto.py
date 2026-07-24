@@ -5,3 +5,4 @@ deduciones =float(input("Deduciones: "))
 impuesto = salario_bruto *(porcentaje / 100)
 salario_neto = salario_bruto - impuesto - deduciones
 print("Salario neto:", salario_neto)
+#comentario para mi primer commit 4
